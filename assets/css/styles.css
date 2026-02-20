@@ -119,3 +119,16 @@ h2{
 .navbar .nav-link:hover{
   color: var(--text);
 }
+
+/* Mobile optimizations */
+@media (max-width: 576px) {
+  .section-wrap {
+    padding: 2rem 0;
+  }
+  .hero-card .card-body {
+    padding: 1.5rem !important;
+  }
+  .profile-img {
+    width: clamp(120px, 30vw, 160px);
+  }
+}
