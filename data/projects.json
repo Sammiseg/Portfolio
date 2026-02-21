@@ -22,5 +22,11 @@
     "description": "A task management app to organize and track daily tasks.",
     "liveUrl": "https://sammiseg.github.io/To-Do-List/",
     "githubUrl": "https://github.com/Sammiseg/To-Do-List"
+  },
+  {
+    "title": "Travel Planning Website",
+    "description": "A responsive website for planning and organizing travel itineraries.",
+    "liveUrl": "https://sammiseg.github.io/Travel-and-Planning/",
+    "githubUrl": "https://github.com/Sammiseg/Travel-and-Planning"
   }
 ]
