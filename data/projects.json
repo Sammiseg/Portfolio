@@ -1,31 +1,31 @@
 [
   {
     "title": "AoA Website",
-    "description": "A responsive website for a gaming community.",
+    "description": "A responsive gaming community website built using HTML, CSS, and Bootstrap. Designed with a themed interface to match the Path of Titans environment, focusing on user engagement and clean navigation across devices.",
     "liveUrl": "https://sammiseg.github.io/aoa/",
     "githubUrl": "https://github.com/Sammiseg/aoa"
   },
   {
     "title": "Apartment Finder",
-    "description": "Responsive website helping users find suitable apartments.",
+    "description": "A responsive web application designed to help users explore and view apartment listings. Focused on intuitive layout, structured data presentation, and improving the overall browsing experience.",
     "liveUrl": "https://sammiseg.github.io/apetments/",
     "githubUrl": "https://github.com/Sammiseg/apetments"
   },
   {
     "title": "Calculator",
-    "description": "A functional calculator application built with web technologies.",
+    "description": "A functional calculator application built with JavaScript, supporting real-time calculations and user input handling with a clean, responsive interface.",
     "liveUrl": "https://sammiseg.github.io/Calculator/",
     "githubUrl": "https://github.com/Sammiseg/Calculator"
   },
   {
     "title": "To Do List",
-    "description": "A task management app to organize and track daily tasks.",
+    "description": "A dynamic task management application that allows users to add, track, and remove tasks. Built to demonstrate interactive JavaScript functionality and practical UI design.",
     "liveUrl": "https://sammiseg.github.io/To-Do-List/",
     "githubUrl": "https://github.com/Sammiseg/To-Do-List"
   },
   {
     "title": "Travel Planning Website",
-    "description": "A responsive website for planning and organizing travel itineraries.",
+    "description": "A responsive travel planning website designed to help organize itineraries and trip details. Focused on usability, layout clarity, and structured content flow.",
     "liveUrl": "https://sammiseg.github.io/Travel-and-Planning/",
     "githubUrl": "https://github.com/Sammiseg/Travel-and-Planning"
   }
